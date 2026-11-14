@@ -30,3 +30,10 @@
 - 신규 직무 콘텐츠는 data/roles/<role_id>/에 구성할 예정입니다. 현재 게임 구현과 공통 계약은 아직 준비되지 않았습니다.
 
 - [멀티플레이어 AI 협업 방식](docs/planning/멀티플레이어_AI_협업_방식.md): 사람과 에이전트의 역할·공유 작업판·위임 규칙.
+
+## 프로젝트 핵심 문서
+
+- [기획안](docs/planning/기획안.md)
+- [에이전트 작업 규칙](AGENTS.md)
+- [팀 작업판](docs/planning/팀_작업판.md)
+- [공유 계약 초안](docs/contracts/README.md)
